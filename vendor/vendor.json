@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "yf1RvNZJFYMXE8QWmklusKVq4Jw=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "afe454f6220b3972691678af2c5579781563183f",
+			"revisionTime": "2017-06-21T01:05:20Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"path": "golang.org/x/net/context",
+			"revision": "057a25b06247e0c51ba15d8ae475feb2fcb72164",
+			"revisionTime": "2017-06-20T20:31:43Z"
+		}
+	],
+	"rootPath": "github.com/dihedron/go-photo"
+}
