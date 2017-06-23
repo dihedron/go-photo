@@ -3,10 +3,6 @@
 	"ignore": "test",
 	"package": [
 		{
-			"path": "github.com/faith/color",
-			"revision": ""
-		},
-		{
 			"checksumSHA1": "AANTVr9CVVyzsgviODY6Wi2thuM=",
 			"path": "github.com/fatih/color",
 			"revision": "62e9147c64a1ed519147b62a56a14e83e2be02c1",
@@ -23,18 +19,6 @@
 			"path": "github.com/mattn/go-isatty",
 			"revision": "fc9e8d8ef48496124e79ae0df75490096eccf6fe",
 			"revisionTime": "2017-03-22T23:44:13Z"
-		},
-		{
-			"checksumSHA1": "yf1RvNZJFYMXE8QWmklusKVq4Jw=",
-			"path": "github.com/mattn/go-sqlite3",
-			"revision": "afe454f6220b3972691678af2c5579781563183f",
-			"revisionTime": "2017-06-21T01:05:20Z"
-		},
-		{
-			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
-			"path": "golang.org/x/net/context",
-			"revision": "057a25b06247e0c51ba15d8ae475feb2fcb72164",
-			"revisionTime": "2017-06-20T20:31:43Z"
 		},
 		{
 			"checksumSHA1": "rIYurTMbnyUj/eMHsaxTBnTvSnY=",
